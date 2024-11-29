@@ -13,7 +13,7 @@ JavaScript (ES6+)
 Follow these steps to get started with the Portfolio App:
 
 1. Clone the Repository
-git clone https://github.com/your-username/portfolio-app.git
+git clone https://github.com/HezekiahIvandi/React-Portfolio
 
 2. Install Dependencies
 Make sure you have Node.js and npm installed. Then run:
