@@ -91,17 +91,21 @@ const Navbar = () => {
         <ul className='hidden absolute lg:flex flex-col top-[10rem] left-0'>
 
             <li>
-                <a className='socmed-link bg-blue-600'>LinkedIn <FaLinkedinIn size={30}/></a>
+                <a href='https://www.linkedin.com/in/hezekiahivandi/' target="_blank" className='socmed-link bg-blue-600'>LinkedIn <FaLinkedinIn size={30}/></a>
             </li>
                 
             <li>
-                <a className='socmed-link bg-[#333333] '> GitHub <FaGithub size={30}/></a>
+                <a className='socmed-link bg-[#333333] ' href='https://github.com/HezekiahIvandi' target="_blank"> GitHub <FaGithub size={30}/></a>
             </li>
+        
+            <Link to="contact"smooth={true}duration={500}>
             <li>
-                <a className='socmed-link bg-[#6fc2b0]'>Email <HiOutlineMail size={30}/></a>
+                <a className='socmed-link bg-[#6fc2b0]' href='mailto:hezekiahivandi@gmail.com'  target="_top">Email <HiOutlineMail size={30}/></a>
+                
             </li>
+                </Link>
             <li>
-                <a className='socmed-link bg-[grey]'>Resume <BsFillPersonLinesFill size={30}/></a>
+                <a className='socmed-link bg-[grey]' href="CV_Hezekiah.pdf" download>Resume <BsFillPersonLinesFill size={30}/></a>
             </li>
 
             

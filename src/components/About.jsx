@@ -9,16 +9,11 @@ const About = () => {
 
         <div className='block sm:grid grid-cols-2 gap-4'>
             <div className='sm:text-right text-4xl font-bold my-7'>
-                    Hi, i'm Hezekiah, nice to meet you.
-                    Please take a look around.
+            Hi, I'm Hezekiah. Welcome to my portfolio!
             </div>
 
             <div className='sm:mt-8'>
-                Lorem ipsum dolor sit, amet consectetur 
-                adipisicing elit. Ducimus corporis, necessitatibus aspernatur 
-                obcaecati magni ratione nostrum tempore 
-                consectetur reprehenderit optio eius deserunt 
-                corrupti dignissimos nihil facilis animi sunt! Quidem, illum?
+            I'm passionate about building innovative digital solutions that make a real impact. As a full-stack developer, I bring ideas to life through clean code and user-centered design. My experience spans from winning web development competitions to creating practical applications for real-world use cases. I thrive in collaborative environments and am always eager to tackle new technological challenges.
             </div>
         </div>
 

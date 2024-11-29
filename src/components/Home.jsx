@@ -9,8 +9,7 @@ const Home = () => {
       <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Hezekiah Ivandi</h1>
       <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Full Stack Developer</h2>
       <p className='text-[#8892b0] py-3'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate rem neque magni voluptate similique hic vero vitae laboriosam assumenda 
-        architecto velit ducimus nostrum impedit ratione harum, debitis facilis, accusantium in?
+      I'm a results-driven developer specializing in building scalable web and mobile applications. With expertise in React, Laravel, and Flutter, I create robust solutions that combine technical excellence with intuitive user experiences. Currently pursuing my Bachelor's in Informatics Engineering at Universitas Tarumanagara with a 3.9/4.0 GPA.
       </p>
       <Link to="work"smooth={true}duration={500}>
         <button className='group w-[7.9rem] border-2 flex items-center px-3 py-4 hover:bg-pink-600'>
