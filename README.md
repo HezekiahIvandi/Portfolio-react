@@ -4,7 +4,6 @@ Welcome to the Portfolio App! This is a fun, simple static portfolio project bui
 # 🚀 Features
 Static single-page application (SPA).
 Minimalist and responsive design.
-Easy to customize with your personal information.
 
 ### 🛠️ Tech Stack
 React (via create-react-app)
@@ -14,20 +13,13 @@ JavaScript (ES6+)
 Follow these steps to get started with the Portfolio App:
 
 1. Clone the Repository
-bash
-Copy code
 git clone https://github.com/your-username/portfolio-app.git
-cd portfolio-app
+
 2. Install Dependencies
 Make sure you have Node.js and npm installed. Then run:
-
-bash
-Copy code
 npm install
-3. Start the Development Server
-Run the following command to start the app locally:
 
-bash
-Copy code
+4. Start the Development Server
+Run the following command to start the app locally:
 npm start
 The app will open in your default browser at http://localhost:3000.
