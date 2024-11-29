@@ -47,7 +47,7 @@ const Navbar = () => {
     <div className='fixed w-full bg-[#0a192f] text-white flex justify-end items-center px-5 py-4'>
 
             <div className='w-full'>
-                <img src={Logo} className='w-10'/>
+                <img src={Logo} className='w-14 ml-2 lg:ml-[-10px]'/>
             </div>
 
             <ul className='hidden w-[30rem] justify-between md:flex'><Menu/></ul>
