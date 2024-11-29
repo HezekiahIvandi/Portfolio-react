@@ -1,15 +1,16 @@
-### Portfolio App
-Welcome to the Portfolio App! This is a fun, simple static portfolio project built with React using create-react-app. Showcase your skills, projects, and experience in an elegant and minimalist way.
+# Portfolio App
+Welcome to the Portfolio App! This is a fun, simple static portfolio project built with React using create-react-app. 
 
-### 🚀 Features
+# 🚀 Features
 Static single-page application (SPA).
 Minimalist and responsive design.
 Easy to customize with your personal information.
-🛠️ Tech Stack
+
+### 🛠️ Tech Stack
 React (via create-react-app)
-HTML5 & CSS3
+HTML5 & CSS3 (TailwindCSS)
 JavaScript (ES6+)
-### 🔧 Getting Started
+# 🔧 Getting Started
 Follow these steps to get started with the Portfolio App:
 
 1. Clone the Repository
